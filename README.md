@@ -10,4 +10,4 @@ Ce projet est une application React simple permettant aux utilisateurs d'ajouter
 
 ### GIF
 
- <img src=""/>
+ <img src="./public/parfum.gif"/>
